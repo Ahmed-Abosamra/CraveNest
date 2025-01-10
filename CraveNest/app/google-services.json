@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "334002472119",
+    "project_id": "cravenest-2d5cf",
+    "storage_bucket": "cravenest-2d5cf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334002472119:android:5238e6d189c5fe07e4f932",
+        "android_client_info": {
+          "package_name": "com.example.cravenest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD_K5t_OT1jCPOcH8rIvQpVAbp2glvRwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
